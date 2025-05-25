@@ -192,5 +192,5 @@ This implementation validates the design presented in Part 2 and demonstrates ha
 **Ibrahim Vonjoe**  
 Student, CS544 – Computer Networks  
 Email: *iev24@drexel.edu*  
-GitHub: *()*
+GitHub: *(https://github.com/Vonjtech/Quicchat_Final_Project)*
 # Quicchat_Final_Project
